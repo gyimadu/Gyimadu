@@ -1,15 +1,11 @@
-HEYY!👋 READ ME!😁
+### Hi there! 👋
 
-It's me, Michael Gyimadu. Yes, you've never heard of me.
-👨🏽‍💻 I'm a front-end developer and tech enthusiast
+I'm a passionate developer currently building **step**, a degree navigation app to help students plan their academic journey.
 
-💻 I'm currently working on Psyche and learning JavaScript.
-I'm interested in data analytics 📈, AI and machine learning📊 and looking to collaborate on interesting projects.
+Feel free to explore my repos or connect!
 
-📫 How to reach me
+💻 [[LinkedIn](#)](https://www.linkedin.com/in/michael-gyimadu)
 
-Email: michaelgyimadu@gmail.com
-LinkedIn: https://www.linkedin.com/in/michael-gyimadu
 
 Fun fact: You cannot star this repo, even if you click on the 'Star' button.
 <!---
